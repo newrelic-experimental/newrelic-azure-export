@@ -1,7 +1,7 @@
 {
-    "key": "ffMNtcf1j7hk0xe+f1BeFyAcBKYFiyoyclu+ZQPPKfl+jF4QJ6PJ8gX26NHztM1wHL2mtu7BPIi6J0Pc7aKRPg==",
-    "CustomerId": "5d6e0959-27ce-4b56-ab18-579115368f5c",
-    "NRQL": "From SystemSample Select *",
+    "key": "<<REPLACE WITH AZURE LA PRIMARY KEY>>",
+    "CustomerId": "<<REPLACE WITH AZURE LA WORKSPACE ID>>",
+    "NRQL": "<<REPLACE WITH YOUR NRQL QUERY FOR EXAMPLE: From SystemSample Select * >>",
     "MinutesInterval": "5",
-    "NRKey": "NRAK-TTADL4XIONKWV7EYZ5BBH1XEVWE"
+    "NRKey": "<<REAPLACE WITH NR USER KEY>>"
 }
