@@ -22,7 +22,7 @@ Most of the information above will live in the ``config.json`` file. In the futu
     "key": "<<REPLACE WITH AZURE LA PRIMARY KEY>>",
     "CustomerId": "<<REPLACE WITH AZURE LA WORKSPACE ID>>",
     "NRQL": "<<REPLACE WITH YOUR NRQL QUERY FOR EXAMPLE: From SystemSample Select * >>",
-    "LogType": "<<REPLACE WITH YOUR NAME TABLE NAME>>",
+    "LogType": "<<REPLACE WITH YOUR NEW TABLE NAME>>",
     "MinutesInterval": "5",
     "NRKey": "<<REPLACE WITH NR USER KEY>>"
 }
