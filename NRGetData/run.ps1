@@ -17,7 +17,7 @@ $CustomerId = $cfg.CustomerId
 $SharedKey = $cfg.key
 
 # Specify the name of the record type that you'll be creating
-$LogType = "NewRelicEvent"
+$LogType = $cfg.LogType
 
 # Optional name of a field that includes the timestamp for the data. If the time field is not specified, Azure Monitor assumes the time is the message ingestion time
 $TimeStampField = "timestamp"
